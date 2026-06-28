@@ -11,8 +11,6 @@
 
 https://studentresultpredictionsystem.streamlit.app/
 
----
-
 ## 📖 Overview
 
 The **Student Result Prediction System** is a Machine Learning web application built using **Python** and **Streamlit**.
@@ -27,8 +25,6 @@ It also provides:
 - 📄 Downloadable PDF Prediction Report
 - 🎨 Professional Streamlit User Interface
 
----
-
 ## ✨ Features
 
 - 🎓 Student PASS / FAIL Prediction
@@ -42,8 +38,6 @@ It also provides:
 - 🎨 Modern Responsive UI
 - 🌙 Dark / Light Theme Support
 
----
-
 ## 🛠 Tech Stack
 
 | Technology | Purpose |
@@ -56,8 +50,6 @@ It also provides:
 | Matplotlib | Data Visualization |
 | Seaborn | Statistical Charts |
 | ReportLab | PDF Report Generation |
-
----
 
 ## 🧠 Machine Learning Model
 
@@ -73,8 +65,6 @@ It also provides:
 
 - PASS
 - FAIL
-
----
 
 ## 📂 Dataset
 
@@ -93,11 +83,9 @@ The project uses a synthetic dataset consisting of **500 student records**.
 - ✅ PASS
 - ❌ FAIL
 
----
-
 ## 📸 Application Screens
 
-### 🔮 Prediction Dashboard
+### Prediction Dashboard
 
 - Student Input Form
 - PASS / FAIL Prediction
@@ -105,7 +93,7 @@ The project uses a synthetic dataset consisting of **500 student records**.
 - AI Recommendations
 - PDF Report Download
 
-### 📊 Data Analysis
+### Data Analysis
 
 - Study Hours vs Marks
 - Attendance vs Marks
@@ -113,7 +101,7 @@ The project uses a synthetic dataset consisting of **500 student records**.
 - Marks Distribution
 - Top Students Leaderboard
 
-### 📈 Model Performance
+### Model Performance
 
 - Accuracy
 - Precision
@@ -121,8 +109,6 @@ The project uses a synthetic dataset consisting of **500 student records**.
 - F1 Score
 - Confusion Matrix
 - Feature Importance
-
----
 
 ## 📈 Model Performance
 
@@ -134,8 +120,6 @@ The trained Logistic Regression model achieves approximately:
 | Precision | ~90% |
 | Recall | ~92% |
 | F1 Score | ~91% |
-
----
 
 ## 🚀 Installation
 
@@ -163,8 +147,6 @@ Run the application
 streamlit run Student_Result_Predicton.py
 ```
 
----
-
 ## 📁 Project Structure
 
 ```
@@ -176,7 +158,11 @@ Student_Result_Prediction_System/
 
 ```
 
----
+## 🌐 Deployment
+
+* This Project Student Result Prediction System Web Application is deployed using Streamlit App.
+
+👉 https://studentresultpredictionsystem.streamlit.app/
 
 ## 🎯 Future Enhancements
 
@@ -188,14 +174,6 @@ Student_Result_Prediction_System/
 - Cloud Database Support
 - Performance Trend Analysis
 - Student History Tracking
-
----
-
-## 🌐 Live Application
-
-👉 https://studentresultpredictionsystem.streamlit.app/
-
----
 
 ## 💡 Learning Outcomes
 
@@ -210,21 +188,9 @@ This project demonstrates:
 - PDF Report Generation
 - Interactive Dashboard Design
 
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-Feel free to fork the repository and submit a Pull Request.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Developer
 
@@ -232,5 +198,3 @@ This project is licensed under the MIT License.
 
 - GitHub: https://github.com/A-Navaneetha
 - Project: Student Result Prediction System
-
-⭐ If you found this project useful, consider giving it a **Star** on GitHub!
